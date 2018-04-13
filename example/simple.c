@@ -8,6 +8,7 @@
  * tokens is predictable.
  */
 
+
 static const char *JSON_STRING =
 	"{\"user\": \"john\", \"admin\": false, \"uid\": 1000,\n  "
 	"\"groups\": [\"users\", \"wheel\", \"audio\", \"video\"]}";
